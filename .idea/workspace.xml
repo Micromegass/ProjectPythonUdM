@@ -4,6 +4,7 @@
     <list default="true" id="6e67df74-d9bd-4345-8fe0-ee7048bcccdc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cities.py" beforeDir="false" afterPath="$PROJECT_DIR$/cities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulados.csv" beforeDir="false" afterPath="$PROJECT_DIR$/simulados.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +15,8 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ProjectPythonUDM$generador.coverage" NAME="generador Coverage Results" MODIFIED="1556908856669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectPythonUDM$Hacer_Hash_de_Un_Archivo_pyw.coverage" NAME="Hacer_Hash_de_Un_Archivo.pyw Coverage Results" MODIFIED="1556985581650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Segundo_Punto_del_Final" />
-    <SUITE FILE_PATH="coverage/ProjectPythonUDM$cities.coverage" NAME="cities Coverage Results" MODIFIED="1558132050728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectPythonUDM$01_generar_gran_csv.coverage" NAME="01_generar_gran_csv Coverage Results" MODIFIED="1558201814256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Punto_1" />
+    <SUITE FILE_PATH="coverage/ProjectPythonUDM$cities.coverage" NAME="cities Coverage Results" MODIFIED="1558202829936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ProjectPythonUDM$tests.coverage" NAME="tests Coverage Results" MODIFIED="1556984548820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_Segundo_Punto_del_Final" />
     <SUITE FILE_PATH="coverage/ProjectPythonUDM$04_Solución.coverage" NAME="04_Solución Coverage Results" MODIFIED="1557184103860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Punto_1" />
   </component>
@@ -23,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="298" column="37" lean-forward="true" selection-start-line="298" selection-start-column="37" selection-end-line="298" selection-end-column="37" />
+            <state relative-caret-position="199">
+              <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
@@ -33,25 +35,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/city_number_10.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14703" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Punto_1/01_generar_gran_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testfile.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="2205">
               <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simulados.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74895">
-              <caret line="4993" column="6" selection-start-line="4993" selection-start-column="6" selection-end-line="4993" selection-end-column="6" />
-            </state>
-          </provider>
+        <entry file="file://$USER_HOME$/Downloads/Punto_1/EL_GRAN_CSV.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/Punto_1/EL_GRAN_CSV.csv">
+        <entry file="file://$PROJECT_DIR$/simulados.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Punto_1/000000EL_GRAN_CSV.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -77,6 +98,7 @@
       <find>sum</find>
       <find>inte</find>
       <find>idc</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,9 +117,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="837" />
   </component>
@@ -107,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,11 +136,14 @@
               <item name="ProjectPythonUDM" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectPythonUDM" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProjectPythonUDM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Punto_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,6 +155,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/Downloads/Punto_1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,6 +171,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.cities">
+    <configuration name="01_generar_gran_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Punto_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/Punto_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Punto_1/01_generar_gran_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="04_Solución" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Punto_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,28 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generador" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProjectPythonUDM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generador.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjectPythonUDM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,10 +284,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.cities" />
+        <item itemvalue="Python.01_generar_gran_csv" />
         <item itemvalue="Python.04_Solución" />
         <item itemvalue="Python.Hacer_Hash_de_Un_Archivo.pyw" />
         <item itemvalue="Python.tests" />
-        <item itemvalue="Python.generador" />
       </list>
     </recent_temporary>
   </component>
@@ -285,18 +311,20 @@
       <workItem from="1557589417574" duration="5998000" />
       <workItem from="1557965839852" duration="4039000" />
       <workItem from="1558008407585" duration="368000" />
-      <workItem from="1558125467599" duration="5934000" />
+      <workItem from="1558125467599" duration="6342000" />
+      <workItem from="1558144555272" duration="1231000" />
+      <workItem from="1558201652474" duration="1134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63437000" />
+    <option name="totallyTimeSpent" value="66210000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="837" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49173555" visible="true" weight="0.28540772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49173555" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" sideWeight="0.5082645" side_tool="true" weight="0.2746781" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -330,18 +358,6 @@
     <entry file="file://$PROJECT_DIR$/03_Segundo_Punto_del_Final/test.txt__md5sum.txt" />
     <entry file="file://$PROJECT_DIR$/03_Segundo_Punto_del_Final/test2.txt__md5sum.txt" />
     <entry file="file://$PROJECT_DIR$/03_Segundo_Punto_del_Final/Hacer_Hash_de_Un_Archivo.pyw" />
-    <entry file="file://$USER_HOME$/Downloads/Punto_1/01_generar_gran_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Punto_1/000000EL_GRAN_CSV.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/Punto_1/Proceso__20190506180833__702738/01_csvs_por_ciudad/Ciudad__7.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -383,11 +399,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/city_number_6.csv" />
-    <entry file="file://$PROJECT_DIR$/city_number_10.csv" />
     <entry file="file://$PROJECT_DIR$/city_number_9.csv" />
     <entry file="file://$PROJECT_DIR$/script.py" />
     <entry file="file://$PROJECT_DIR$/city_number_5.csv" />
     <entry file="file://$PROJECT_DIR$/city_number_1.csv" />
+    <entry file="file://$PROJECT_DIR$/testfile.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simulados.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74895">
@@ -395,20 +417,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/Punto_1/000000EL_GRAN_CSV.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Punto_1/01_generar_gran_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/Punto_1/EL_GRAN_CSV.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/testfile.csv">
+    <entry file="file://$PROJECT_DIR$/simulados.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/city_number_10.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="147" column="6" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
-        </state>
+        <state relative-caret-position="-14703" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cities.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="298" column="37" lean-forward="true" selection-start-line="298" selection-start-column="37" selection-end-line="298" selection-end-column="37" />
+        <state relative-caret-position="199">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
